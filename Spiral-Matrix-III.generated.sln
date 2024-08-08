@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spiral-Matrix-III", "Spiral-Matrix-III.csproj", "{951D1C45-FF6B-47A4-8509-0558BE65E918}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{951D1C45-FF6B-47A4-8509-0558BE65E918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951D1C45-FF6B-47A4-8509-0558BE65E918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951D1C45-FF6B-47A4-8509-0558BE65E918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951D1C45-FF6B-47A4-8509-0558BE65E918}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84DD93FE-22A0-48B9-9E97-DF29128E6A2F}
+	EndGlobalSection
+EndGlobal
